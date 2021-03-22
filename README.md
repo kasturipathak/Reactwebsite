@@ -1,4 +1,4 @@
-# react-form-v1
+# react-form
 Created a simple form with react hooks and included validation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
